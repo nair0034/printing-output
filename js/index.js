@@ -48,4 +48,4 @@ output += 'You can contact me at  '
 output += email;
 output += '."';
 
-alert output;
+alert(output);
