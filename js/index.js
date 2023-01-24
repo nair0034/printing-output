@@ -26,9 +26,6 @@ output += ('!a && !c = ' + (!a && !c) + "\n");
 output += ('!a || !c  = ' + (!a || !c) + "\n");
 
 
-alert(output);
-
-
 
 
 let first_name = "Rahul";
@@ -48,4 +45,8 @@ output += 'You can contact me at  '
 output += email;
 output += '."';
 
+
 alert(output);
+
+
+
