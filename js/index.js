@@ -28,22 +28,7 @@ output += ('!a || !c  = ' + (!a || !c) + "\n");
 
 
 
-let first_name = "Rahul";
-let last_name = "Nair";
-let email = "rnair070@gmail.com";
-let output;
 
-
-
-
-output = '"My name is ' 
-output += first_name;
-output += ' ';
-output += last_name;
-output += '.';
-output += 'You can contact me at  ' 
-output += email;
-output += '."';
 
 
 alert(output);
